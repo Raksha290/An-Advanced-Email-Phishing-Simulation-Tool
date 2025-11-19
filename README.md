@@ -17,49 +17,27 @@ DigitalOcean → for cloud hosting
 It provides end‑to‑end simulation, click‑level analysis, behavior recording, risk scoring, and security awareness insights.
 
 🚀 Features
-
-Phishing Simulation Engine
-
-Customizable phishing email templates
-
-Campaign scheduling & targeting
-
-Real‑time tracking of delivered, opened, clicked events
-
-Credential harvesting simulation
-
-Behavioral Analytics & Insights
-
-Heatmaps of user interactions
-
-Session recordings
-
-Click hesitation tracking
-
-Action‑based user risk classification
-
-Security Awareness & Reporting
-
-Pre‑ and post‑training behavioral comparison
-
-30% improvement in secure behavior observed in testing
-
-Automated campaign performance summaries
-
-Safe, Controlled Email Testing
-
-100% email delivery with Mailtrap
-
-No real mailboxes involved
+1. Phishing Simulation Engine
+-> Customizable phishing email templates
+-> Campaign scheduling & targeting
+-> Real‑time tracking of delivered, opened, clicked events
+-> Credential harvesting simulation
+2.Behavioral Analytics & Insights
+-> Heatmaps of user interactions
+-> Session recordings
+-> Click hesitation tracking
+-> Action‑based user risk classification
+3. Security Awareness & Reporting
+-> Pre‑ and post‑training behavioral comparison
+-> 30% improvement in secure behavior observed in testing
+-> Automated campaign performance summaries
+4. Safe, Controlled Email Testing
+-> 100% email delivery with Mailtrap
+-> No real mailboxes involved
 
 🛠 Tech Stack
-
-Gophish
-
-Mailtrap SMTP
-
-Hotjar
-
-DigitalOcean (Ubuntu + Nginx)
-
-Python / Bash scripts
+-> Gophish
+-> Mailtrap SMTP
+-> Hotjar
+-> DigitalOcean (Ubuntu + Nginx)
+-> Python / Bash scripts
