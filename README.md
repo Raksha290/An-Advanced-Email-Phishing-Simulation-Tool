@@ -18,10 +18,15 @@ It provides end‑to‑end simulation, click‑level analysis, behavior recordin
 
 🚀 Features
 1. Phishing Simulation Engine
+   
 -> Customizable phishing email templates
+
 -> Campaign scheduling & targeting
+
 -> Real‑time tracking of delivered, opened, clicked events
+
 -> Credential harvesting simulation
+
 2.Behavioral Analytics & Insights
 -> Heatmaps of user interactions
 -> Session recordings
