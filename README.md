@@ -17,6 +17,7 @@ DigitalOcean → for cloud hosting
 It provides end‑to‑end simulation, click‑level analysis, behavior recording, risk scoring, and security awareness insights.
 
 🚀 Features
+
 Phishing Simulation Engine
 
 Customizable phishing email templates
