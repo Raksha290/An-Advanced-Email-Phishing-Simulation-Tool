@@ -29,20 +29,32 @@ It provides end‑to‑end simulation, click‑level analysis, behavior recordin
 
 2.Behavioral Analytics & Insights
 -> Heatmaps of user interactions
+
 -> Session recordings
+
 -> Click hesitation tracking
+
 -> Action‑based user risk classification
+
 3. Security Awareness & Reporting
 -> Pre‑ and post‑training behavioral comparison
+   
 -> 30% improvement in secure behavior observed in testing
+
 -> Automated campaign performance summaries
-4. Safe, Controlled Email Testing
+
+5. Safe, Controlled Email Testing
 -> 100% email delivery with Mailtrap
+   
 -> No real mailboxes involved
 
 🛠 Tech Stack
 -> Gophish
+
 -> Mailtrap SMTP
+
 -> Hotjar
+
 -> DigitalOcean (Ubuntu + Nginx)
+
 -> Python / Bash scripts
